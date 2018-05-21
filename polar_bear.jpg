@@ -1,2 +1,2 @@
-curl o breaching_whale.jpg 
-OL cdn.learnenough.com/breaching_whale.jpg
+curl o images/polar_bear.jpg \
+OL cdn.learnenough.com/polar_bear.jpg
